@@ -1,0 +1,18 @@
+body
+{
+    margin:0;
+    padding:0;
+}
+
+#userInput
+{
+    padding:2px;
+    margin:5px;
+    border-radius: 5px;
+    border:2px solid black;
+}
+.editable
+{
+    background-color: red;
+    color:rgb(59, 1, 1);
+}
